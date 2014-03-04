@@ -1,6 +1,6 @@
 {
   "name": "shimify-v2",
-  "version": "0.1.1",
+  "version": "0.1.t p2",
   "description": "browserify v2 middleware to prepend es5-shim",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/srounce/node-shimify.git"
+    "url": "git@github.com:srounce/node-shimify.git"
   },
   "keywords": [
     "es5",
@@ -25,11 +25,15 @@
     "browserify",
     "browser"
   ],
-  "author": {
+  "author": [{
     "name": "James Halliday",
     "email": "mail@substack.net",
     "url": "http://substack.net"
-  },
+  }, {
+    "name": "Samuel Rounce",
+    "email": "code@killin.gs",
+    "url": "http://code.killin.gs"
+  }],
   "license": "MIT/X11",
   "engine": {
     "node": ">=0.4"
