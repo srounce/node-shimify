@@ -34,7 +34,7 @@
     "email": "code@killin.gs",
     "url": "http://code.killin.gs"
   }],
-  "license": "MIT/X11",
+  "license": "MIT",
   "engine": {
     "node": ">=0.4"
   }
